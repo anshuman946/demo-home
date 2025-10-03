@@ -45,12 +45,6 @@ function App() {
               <div className="bk-footer-section">
                 <h3>BewertungKlar</h3>
                 <p>Die professionelle Bewertungsverwaltung für deutsche Shopify-Stores. Steigern Sie Vertrauen und Umsatz mit authentischen Kundenbewertungen.</p>
-                <div className="bk-footer-social">
-                  <a href="#twitter" aria-label="Twitter">🐦</a>
-                  <a href="#linkedin" aria-label="LinkedIn">💼</a>
-                  <a href="#facebook" aria-label="Facebook">📘</a>
-                  <a href="#instagram" aria-label="Instagram">📷</a>
-                </div>
               </div>
               
               <div className="bk-footer-section">
