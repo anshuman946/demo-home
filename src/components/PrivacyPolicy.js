@@ -28,14 +28,14 @@ function PrivacyPolicy() {
           </p>
           <div className="bk-contact-info">
             <p>
-              <strong>BewertungKlar GmbH</strong><br />
-              Musterstraße 123<br />
-              12345 Berlin<br />
-              Deutschland
+              <strong>BewertungKlar (Pingbase, Inc.)</strong><br />
+              2136 Ford Parkway<br />
+              St Paul, MN, USA, 55116<br />
+              Managing Director: Kishan Vasani<br />
+              Register Court: Delaware, USA
             </p>
             <p>
-              <strong>Telefon:</strong> +49 (0) 30 12345678<br />
-              <strong>E-Mail:</strong> datenschutz@bewertungklar.de
+              <strong>E-Mail:</strong> kishan@pingbase.ai
             </p>
           </div>
         </section>
@@ -132,9 +132,8 @@ function PrivacyPolicy() {
           <div className="bk-contact-info">
             <p>
               <strong>Datenschutzbeauftragter</strong><br />
-              BewertungKlar GmbH<br />
-              E-Mail: datenschutz@bewertungklar.de<br />
-              Telefon: +49 (0) 30 12345678
+              BewertungKlar (Pingbase, Inc.)<br />
+              E-Mail: support@bewertungklar.de
             </p>
           </div>
         </section>
@@ -144,3 +143,4 @@ function PrivacyPolicy() {
 }
 
 export default PrivacyPolicy;
+

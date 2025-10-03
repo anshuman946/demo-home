@@ -14,7 +14,7 @@ function TermsOfService() {
         <section>
           <h2>1. Geltungsbereich</h2>
           <p>
-            Diese Allgemeinen Geschäftsbedingungen (AGB) gelten für alle Verträge zwischen der BewertungKlar GmbH 
+            Diese Allgemeinen Geschäftsbedingungen (AGB) gelten für alle Verträge zwischen BewertungKlar (Pingbase, Inc.) 
             (nachfolgend "Anbieter") und ihren Kunden (nachfolgend "Nutzer") über die Nutzung der BewertungKlar 
             Shopify-App und der damit verbundenen Dienstleistungen.
           </p>
@@ -24,16 +24,11 @@ function TermsOfService() {
           <h2>2. Vertragspartner</h2>
           <div className="bk-contact-info">
             <p>
-              <strong>BewertungKlar GmbH</strong><br />
-              Musterstraße 123<br />
-              12345 Berlin<br />
-              Deutschland
-            </p>
-            <p>
-              <strong>Geschäftsführer:</strong> Max Mustermann<br />
-              <strong>Registergericht:</strong> Amtsgericht Berlin<br />
-              <strong>Handelsregisternummer:</strong> HRB 123456<br />
-              <strong>USt-IdNr.:</strong> DE123456789
+              <strong>BewertungKlar (Pingbase, Inc.)</strong><br />
+              2136 Ford Parkway<br />
+              St Paul, MN, USA, 55116<br />
+              Managing Director: Kishan Vasani<br />
+              Register Court: Delaware, USA
             </p>
           </div>
         </section>
@@ -201,9 +196,8 @@ function TermsOfService() {
           </p>
           <div className="bk-contact-info">
             <p>
-              <strong>BewertungKlar GmbH</strong><br />
-              E-Mail: legal@bewertungklar.de<br />
-              Telefon: +49 (0) 30 12345678
+              <strong>BewertungKlar (Pingbase, Inc.)</strong><br />
+              E-Mail: support@bewertungklar.de
             </p>
           </div>
         </section>
@@ -213,3 +207,4 @@ function TermsOfService() {
 }
 
 export default TermsOfService;
+
